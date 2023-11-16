@@ -110,7 +110,7 @@ body {
 
 .text-container {
     display: grid;
-    padding: 20px;
+    padding: 40px;
     gap: .2rem;
 }
 
@@ -133,7 +133,7 @@ body {
     align-items: center;
     justify-content: space-between;
     border-radius: 7px;
-    padding: 10px 20px;
+    padding: 20px;
 }
 
 .price {
@@ -195,9 +195,8 @@ body {
     }
 
     .container{
-        min-width: 23.5rem;
+        min-width: 25rem;
     }
 
-    
 
 }
