@@ -134,6 +134,7 @@ body {
     justify-content: space-between;
     border-radius: 7px;
     padding: 25px;
+    margin-buttom: 10px;
 }
 
 .price {
