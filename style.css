@@ -111,6 +111,7 @@ body {
 .text-container {
     display: grid;
     padding: 20px;
+    gap: 1.5rem;
 }
 
 .heading {
