@@ -159,6 +159,7 @@ body {
     font-weight: 700;
     font-size: 0.875rem;
     border: none;
+    text-decoration: underline;
 }
 
 .change-plan:hover {
