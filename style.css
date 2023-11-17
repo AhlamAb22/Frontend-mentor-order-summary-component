@@ -197,6 +197,7 @@ body {
     body{
         min-height: 100vh;
         background-image: url(images/pattern-background-desktop.svg);
+        background-size: contain;
     }
 
     .container{
