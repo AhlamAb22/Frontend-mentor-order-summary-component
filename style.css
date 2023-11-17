@@ -160,6 +160,7 @@ body {
     font-size: 0.875rem;
     border: none;
     text-decoration: underline;
+    background: none;
 }
 
 .change-plan:hover {
