@@ -176,7 +176,6 @@ body {
     color: white;
     margin: 20px 0px;
     font-weight: 700;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 .payment:hover {
